@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Syntax-Hiffchakka
+- 👀 I’m interested in gaming, nursing and programming
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on something in the future
+- 📫 How to reach me will be included maybe in the future
